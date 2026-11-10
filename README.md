@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/logo.png" width="300" alt="KXNDXX2 Logo">
   <br><br>
-  <img src="https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/banner.png" width="100%" alt="KXNDXX2 Banner">
+  <img src="[https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/banner.png](https://images.openai.com/static-rsc-4/A5AzZSAi5Yl5vjHU2LBYqCx2VF-WMWONS9lXZKDNzxO7AWbflYQiRKUv1166ek06Q25hRvqw0MJPPrU_eIg9YvR20ALD0jS0lKNLqdOPGRUUzo1p8xVVINB4Hxwuvb8YKqzjbU6Zvw3iaAKGEt9XSCkyt7w_RvShRfqsyRhYrrOFTwb_Jn2WFPjh6AS-tnzK?purpose=fullsize)" width="100%" alt="KXNDXX2 Banner">
   <br><br>
   ### 💜 DEVELOP • OPTIMISE • INNOVATE
 </div>
