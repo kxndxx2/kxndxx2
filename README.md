@@ -28,7 +28,13 @@ I'm interested in software development, programming, gaming and technology.
 
 > Always learning. Always improving.
 
----
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kxndxx2&theme=discord&no-frame=true&no-bg=true&margin-w=8">
+</p>
+
 
 ## ⚡ Tech Stack
 
