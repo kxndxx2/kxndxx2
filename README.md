@@ -1,7 +1,10 @@
 
 <div align="center">
-  <img src="assets/logo.png" width="300" alt="KXNDXX2 Logo">
+  <img src="https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/logo.png" width="300" alt="KXNDXX2 Logo">
+  <br>
+  <img src="https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/banner.png" width="100%" alt="KXNDXX2 Banner">
 </div>
+
 
 <div align="center">
 
