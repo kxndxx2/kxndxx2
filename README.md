@@ -63,6 +63,15 @@ I'm interested in software development, programming, gaming and technology.
 
 </div>
 
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kxndxx2/verbose-spork/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
+</p>
+
 ---
 
 ## 🌐 Connect With Me
