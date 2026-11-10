@@ -46,14 +46,55 @@ I'm interested in software development, programming, gaming and technology.
 
 ---
 
+#
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| ⚡ Vanta Optimizer | Windows optimisation software |
-| 🎯 CS2 Development | CS2 development and research |
-| 🎮 PSN Tools | PlayStation utilities |
-| 🚗 GTA Tools | GTA V tools and customisation |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚡ Vanta Optimizer
+
+Windows optimisation software and utilities.
+
+<img src="https://img.shields.io/badge/C++-7b2cff?style=flat-square&logo=cplusplus&logoColor=white">
+
+</td>
+<td width="50%" align="center">
+
+### 🎮 PSN Tools
+
+PlayStation utilities and customisation projects.
+
+<img src="https://img.shields.io/badge/Tools-6e36b5?style=flat-square">
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🚗 GTA Tools
+
+GTA V tools and customisation projects.
+
+<img src="https://img.shields.io/badge/Gaming-7b2cff?style=flat-square">
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 CS2 Development
+
+Counter-Strike 2 development and research.
+
+<img src="https://img.shields.io/badge/C++-6e36b5?style=flat-square&logo=cplusplus&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
