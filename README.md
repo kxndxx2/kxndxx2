@@ -1,21 +1,12 @@
+
 <div align="center">
-
-<img src="./assets/logo.png" width="300" alt="KXNDXX2 Logo">
-
-<br><br>
-
-<img src="./assets/banner.png" width="100%" alt="KXNDXX2 Banner">
-
+  <img src="https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/logo.png" width="300" alt="KXNDXX2 Logo">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/kxndxx2/kxndxx2/main/assets/banner.png" width="100%" alt="KXNDXX2 Banner">
+  <br><br>
+  ### 💜 DEVELOP • OPTIMISE • INNOVATE
 </div>
 
-
-
-
-<div align="center">
-
-<img src="assets/banner.png" width="100%" alt="kxndxx2 banner">
-
-### 💜 DEVELOP • OPTIMISE • INNOVATE
 
 <img src="https://img.shields.io/badge/C++-7b2cff?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-6e36b5?style=for-the-badge&logo=python&logoColor=white">
