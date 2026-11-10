@@ -93,3 +93,16 @@ I'm interested in software development, programming, gaming and technology.
 ### 💜 BUILD • EXPLORE • ACHIEVE
 
 </div>
+
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kxndxx2&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge">
+</p>
+
+<p align="center">
+  💜 Thanks for visiting my profile!
+</p>
