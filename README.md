@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="assets/logo.png" width="300" alt="KXNDXX2 Logo">
+</div>
+
+<div align="center">
 
 <img src="assets/banner.png" width="100%" alt="kxndxx2 banner">
 
