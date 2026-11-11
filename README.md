@@ -22,25 +22,23 @@
       <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,tailwind,html,css,git,github,figma,linux,vscode,docker&theme=dark&perline=8" alt="Tech Stack" />
     </td>
 
-    <td width="40%" valign="top" style="padding-left: 20px;">
-      <div style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; text-align: center;">
-        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Satellite Link</h3>
-        <a href="https://discord.gg/YbgkDxYWws">
-          <img src="https://discordapp.com/api/guilds/1013524435594661948/widget.png?style=banner2" alt="Discord Server" width="100%" style="border-radius: 12px;" />
-        </a>
-        <br><br>
-        <a href="https://discord.gg/YbgkDxYWws">
-          <img src="https://img.shields.io/badge/ENTER_ORBIT-A855F7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Join Discord" />
-        </a>
-      </div>
-      
-      <br>
-      
-      <div style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; text-align: center;">
-        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Star Charts</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=2" alt="Trophies" width="100%" />
-      </div>
-    </td>
+   <td width="40%" valign="top" style="padding-left: 20px;">
+  <div style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; text-align: center;">
+    <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Satellite Link</h3>
+    <a href="https://discord.gg/YbgkDxYWws">
+      <img src="https://discordapp.com/api/guilds/1013524435594661948/widget.png?style=banner2" alt="Join Discord" width="100%" style="border-radius: 12px;" />
+    </a>
+    <br><br>
+    <a href="https://discord.gg/YbgkDxYWws">
+      <img src="https://img.shields.io/badge/ENTER_ORBIT-A855F7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Join Discord" />
+    </a>
+  </div>
+  <br>
+  <div style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; text-align: center;">
+    <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Star Charts</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=2" alt="Trophies" width="100%" />
+  </div>
+</td>
   </tr>
 </table>
 
