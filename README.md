@@ -14,7 +14,7 @@
 
 <br>
 
-<!-- Galaxy Grid Layout -->
+<!-- Main Grid Layout -->
 <table align="center" width="100%" style="border-collapse: collapse; max-width: 900px;">
   <tr>
     <!-- Left Column: Bio & Skills -->
@@ -28,29 +28,31 @@
       <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,tailwind,html,css,git,github,figma,linux,vscode,docker&theme=dark&perline=8" alt="Tech Stack" />
     </td>
 
-<!-- Right Column: Discord & Trophies -->
-<td width="40%" valign="top" style="padding-left: 30px;">
-  <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
-        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Satellite Link</h3>
-        <a href="https://discord.gg/YbgkDxYWws">
-          <img src="https://lanyard.cnrad.dev/api/1013524435594661948?idleMessage=Exploring%20the%20cosmos&theme=dark&bg=161B22&borderRadius=12px&animated=true&showDisplayName=true&hideDiscrim=true" alt="Discord Presence" width="100%" style="border-radius: 12px;" />
-        </a>
-        <br><br>
-        <a href="https://discord.gg/YbgkDxYWws">
-          <img src="https://img.shields.io/badge/ENTER_ORBIT-A855F7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Join Discord" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; padding-top: 30px;">
-        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Star Charts</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=2" alt="Trophies" width="100%" />
-      </td>
-    </tr>
-  </table>
-</td>
+    <!-- Right Column: Discord & Trophies -->
+    <td width="40%" valign="top" style="padding-left: 20px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
+            <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Satellite Link</h3>
+            <!-- Stable Discord Banner -->
+            <a href="https://discord.gg/YbgkDxYWws">
+              <img src="https://discord.com/api/guilds/123456789012345678/widget.png?style=banner2" alt="Join Discord" width="100%" style="border-radius: 12px;" />
+            </a>
+            <br><br>
+            <a href="https://discord.gg/YbgkDxYWws">
+              <img src="https://img.shields.io/badge/ENTER_ORBIT-A855F7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Join Discord" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; padding-top: 30px;">
+            <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Star Charts</h3>
+            <!-- Stable Trophy API -->
+            <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=2&cache_seconds=86400" alt="Trophies" width="100%" />
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
@@ -64,7 +66,8 @@
   <table width="100%" style="border-collapse: separate; border-spacing: 15px; max-width: 1000px;">
     <tr>
       <td align="center" style="background: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=KXNDXX2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=8B949E&custom_title=STAR_METRICS" alt="Stats" width="100%" />
+        <!-- Added cache_seconds to prevent broken images -->
+        <img src="https://github-readme-stats.vercel.app/api?username=KXNDXX2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=8B949E&custom_title=STAR_METRICS&cache_seconds=86400" alt="Stats" width="100%" />
       </td>
       <td align="center" style="background: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KXNDXX2&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=8B949E&custom_title=LIGHT_YEARS_STREAK" alt="Streak" width="100%" />
@@ -77,7 +80,7 @@
   <table width="100%" style="border-collapse: separate; border-spacing: 15px; max-width: 1000px;">
     <tr>
       <td align="center" width="40%" style="background: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXNDXX2&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=8B949E&custom_title=ELEMENTAL_BALANCE" alt="Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXNDXX2&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=8B949E&custom_title=ELEMENTAL_BALANCE&cache_seconds=86400" alt="Languages" width="100%" />
       </td>
       <td align="center" width="60%" style="background: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KXNDXX2&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=ORBITAL_TRAJECTORY" alt="Activity Graph" width="100%" />
