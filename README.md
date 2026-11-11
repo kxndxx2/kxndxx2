@@ -1,88 +1,106 @@
 <!-- ========================================== -->
-<!--           KXNDXX2 MODERN PROFILE           -->
+<!--           KXNDXX2 // MODERN PROFILE        -->
 <!-- ========================================== -->
 
+<!-- Top Modern Wave Banner -->
 <div align="center">
-  <!-- Modern Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=KXNDXX2&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%" />
-  
-  <!-- Dynamic Typing SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&text=KXNDXX2&fontSize=70&fontColor=A855F7&fontAlignY=50&animation=blink" width="100%" />
+</div>
+
+<!-- Typing Header -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space;Building+cool+things+for+the+web;Always+learning+something+new;Code+%7C+Sleep+%7C+Repeat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;UI%2FUX+Enthusiast;Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
-<h2 align="left">👋 About Me</h2>
+<!-- Glass Card Bio & Status -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>💻 `> About_Me`</h3>
+      <p>I'm a passionate developer dedicated to building clean, efficient, and user-centric digital experiences. I thrive on solving complex problems and staying on the bleeding edge of technology.</p>
+      
+      <ul>
+        <li>🚀 <b>Current Focus:</b> Full-Stack Web Development & C++</li>
+        <li>🧠 <b>Learning:</b> Data Structures, Algorithms & System Design</li>
+        <li>🎨 <b>Passion:</b> Creating beautiful, intuitive UI/UX</li>
+        <li>🎧 <b>Vibe:</b> Coding to Lo-Fi & Synthwave</li>
+        <li>💬 <b>Community:</b> <a href="https://discord.gg/YbgkDxYWws">Join my Discord Server</a></li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<br/>
 
-- 🎓 I'm a passionate **Software Developer**
-- 💻 Currently focusing on **Full-Stack Web Development**
-- 🚀 Exploring the depths of **Data Structures & Algorithms**
-- 🎨 I have a strong eye for **UI/UX Design**
-- 🎵 Fun fact: I spend at least 12 hours a week listening to music while coding
-- 🤝 I'm looking to collaborate on **Open Source Projects**
+<!-- Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
-<br clear="both"/>
+<!-- Minimalist Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <p><i>Languages & Frameworks</i></p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,tailwind,html,css&theme=dark&perline=10" alt="My Skills" />
+  <br><br>
+  <p><i>Tools & Environments</i></p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,docker,vercel&theme=dark&perline=10" alt="My Tools" />
+</div>
 
-<!-- Connect Section -->
-<h2 align="left">🌐 Connect with me</h2>
+<br/>
 
+<!-- Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
-  <a href="(https://discord.gg/YbgkDxYWws)" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<!-- Connect Section (Discord Only) -->
+<h2 align="center">🌐 Connect with me</h2>
+<div align="center">
+  <a href="https://discord.gg/YbgkDxYWws">
+    <img src="https://img.shields.io/badge/Join_My_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=A855F7" alt="Discord Server" />
   </a>
 </div>
 
 <br/>
 
-<!-- Tech Stack Section -->
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<!-- Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-<br/><br/>
-
-<!-- Stats Section -->
-<h2 align="left">📊 GitHub Analytics</h2>
+<!-- GitHub Statistics Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Total Contributions & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KXNDXX2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9" alt="KXNDXX2's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KXNDXX2&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakNum=ffffff" alt="KXNDXX2's GitHub Streak" width="48%" />
+  <!-- Top Row: Stats and Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KXNDXX2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="KXNDXX2's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KXNDXX2&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="KXNDXX2's GitHub Streak" width="48%" />
   
   <br/><br/>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXNDXX2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9" alt="Top Languages" width="40%" />
+  <!-- Bottom Row: Top Languages & Trophies -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXNDXX2&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=4&title_color=A855F7" alt="GitHub Trophies" width="50%" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KXNDXX2&bg_color=0D1117&color=818CF8&line=818CF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KXNDXX2&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="KXNDXX2's Activity Graph" width="100%" />
 </div>
 
 <br/>
 
-<!-- Footer -->
+<!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer&fontSize=20" width="100%" />
 </div>
-
-<img src="https://raw.githubusercontent.com/KXNDXX2/KXNDXX2/output/github-snake-dark.svg" />
