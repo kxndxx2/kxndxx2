@@ -1,105 +1,110 @@
 <!-- ========================================== -->
-<!--    KXNDXX2 // CYBER-MINIMALIST CENTER      -->
+<!--       KXNDXX2 // EDITORIAL MINIMALISM      -->
 <!-- ========================================== -->
 
-<!-- High-End Animated Header -->
+<!-- Massive Hero Typography -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=KXNDXX2&fontSize=70&fontColor=A855F7&fontAlignY=50&desc=ENGINEERING%20THE%20FUTURE&descAlignY=75&descSize=14&animation=blinking" width="100%" />
+  <br>
+  <h1 style="font-family: 'Syne', sans-serif; font-size: 90px; font-weight: 800; color: #FFFFFF; margin-bottom: 0; line-height: 1;">
+    KXNDXX2<span style="color: #A855F7;">.</span>
+  </h1>
+  <h3 style="font-family: 'Inter', sans-serif; font-size: 18px; font-weight: 400; color: #8B949E; letter-spacing: 3px; margin-top: 10px; text-transform: uppercase;">
+    Software Engineer & Digital Architect
+  </h3>
+  
+  <br>
+  
+  <!-- Animated Dynamic Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Building+high-performance+systems.;Crafting+beautiful+interfaces.;Solving+complex+problems.;Always+shipping." alt="Typing SVG" />
+  <br><br>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer.;System+Architect.;UI%2FUX+Engineer.;Problem+Solver." alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-<!-- The Command Center Grid -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none; max-width: 1000px;">
+<!-- Asymmetrical Layout Matrix -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none; max-width: 900px;">
   <tr>
-    <!-- Left Pane: Terminal Bio -->
-    <td width="55%" valign="top" style="padding: 10px;">
-      <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 25px; height: 100%;">
-        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0; font-size: 16px; letter-spacing: 2px;">> SYSTEM_PROFILE</h3>
-        <p style="color: #8B949E; font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.6; margin-bottom: 20px;">
-          I build high-performance digital ecosystems. From pixel-perfect frontends to low-level C++ architecture, I bridge the gap between design and raw computation.
-        </p>
-        <table width="100%" style="border-collapse: collapse; font-family: 'Courier New', monospace; font-size: 13px; color: #C9D1D9;">
-          <tr>
-            <td style="padding: 4px 0;"><span style="color: #A855F7;">></span> Focus:</td>
-            <td style="padding: 4px 0;">Web Apps & Systems</td>
-          </tr>
-          <tr>
-            <td style="padding: 4px 0;"><span style="color: #A855F7;">></span> Stack:</td>
-            <td style="padding: 4px 0;">C++ / React / Node</td>
-          </tr>
-          <tr>
-            <td style="padding: 4px 0;"><span style="color: #A855F7;">></span> Vibe:</td>
-            <td style="padding: 4px 0;">Synthwave & Lo-Fi</td>
-          </tr>
-        </table>
-      </div>
+    <!-- Left Edge: Vertical Lines / Status -->
+    <td width="20%" align="center" valign="top" style="border-right: 1px solid #30363D; padding-right: 20px;">
+      <p style="font-family: 'Syne', sans-serif; color: #8B949E; font-size: 11px; letter-spacing: 2px; writing-mode: vertical-rl; text-orientation: mixed; transform: rotate(180deg); margin: 0 auto; height: 200px;">SYSTEM_STATUS_ONLINE</p>
     </td>
 
-    <!-- Right Pane: Lanyard Presence Widget -->
-    <td width="45%" valign="top" style="padding: 10px;">
-      <div style="background: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 25px; height: 100%; text-align: center;">
-        <h3 style="color: #FFFFFF; font-family: 'Syne', sans-serif; margin-top: 0; font-size: 16px; letter-spacing: 2px; margin-bottom: 20px;">> LIVE_PRESENCE</h3>
-        
-        <!-- Lanyard API -->
-        <img src="https://lanyard.cnrad.dev/api/1013524435594661948?idleMessage=Currently%20Coding&theme=dark&bg=0D1117&borderRadius=10px&animated=true&showDisplayName=true&hideDiscrim=true" alt="Discord Presence" style="border-radius: 10px; max-width: 100%;" />
-        
-        <br><br>
-        
-        <a href="https://discord.gg/YbgkDxYWws" style="background: #A855F7; color: white; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-family: 'Inter', sans-serif; font-size: 13px; display: inline-block;">JOIN NETWORK</a>
-      </div>
+    <!-- Center: Core Identity -->
+    <td width="50%" valign="top" style="padding: 0 30px;">
+      <h3 style="font-family: 'Syne', sans-serif; color: #A855F7; font-size: 14px; letter-spacing: 2px; margin-top: 0;">01 // ABOUT</h3>
+      <p style="font-family: 'Inter', sans-serif; color: #C9D1D9; font-size: 15px; line-height: 1.8; text-align: justify;">
+        I am a Full-Stack Developer dedicated to engineering scalable, high-performance digital ecosystems. I specialize in clean architecture, seamless UI/UX, and backend logic. My philosophy is simple: write code that is as beautiful under the hood as it is on the screen.
+      </p>
+      
+      <br>
+
+      <h3 style="font-family: 'Syne', sans-serif; color: #A855F7; font-size: 14px; letter-spacing: 2px;">02 // DISCORD_TERMINAL</h3>
+      <a href="https://discord.gg/YbgkDxYWws">
+        <img src="https://lanyard.cnrad.dev/api/1013524435594661948?idleMessage=Building%20the%20future&theme=dark&bg=0D1117&borderRadius=8px&animated=true&showDisplayName=true&hideDiscrim=true" alt="Discord Presence" style="width: 100%; max-width: 350px; border-radius: 8px; border: 1px solid #30363D;" />
+      </a>
+      <br><br>
+      <a href="https://discord.gg/YbgkDxYWws" style="background: transparent; color: #A855F7; border: 1px solid #A855F7; padding: 10px 20px; border-radius: 4px; font-family: 'Syne', sans-serif; font-weight: bold; font-size: 12px; text-decoration: none; letter-spacing: 1px; transition: 0.3s;">JOIN SERVER</a>
+    </td>
+
+    <!-- Right Edge: Skills Stack -->
+    <td width="30%" valign="top" style="padding-left: 20px; border-left: 1px solid #30363D;">
+      <h3 style="font-family: 'Syne', sans-serif; color: #A855F7; font-size: 14px; letter-spacing: 2px; margin-top: 0;">03 // STACK</h3>
+      <ul style="list-style-type: none; padding: 0; font-family: 'Inter', sans-serif; font-size: 14px; color: #C9D1D9; line-height: 2;">
+        <li><span style="color: #A855F7;">▪</span> C++ / System Architecture</li>
+        <li><span style="color: #A855F7;">▪</span> React / Next.js / TypeScript</li>
+        <li><span style="color: #A855F7;">▪</span> Node.js / Python</li>
+        <li><span style="color: #A855F7;">▪</span> Docker / Linux / Git</li>
+        <li><span style="color: #A855F7;">▪</span> Figma / UI Design</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br>
+<br><br>
 
-<!-- Holographic Tech Stack -->
+<!-- Divider -->
 <div align="center">
-  <h2 style="color: #FFFFFF; font-family: 'Syne', sans-serif; font-weight: 800; letter-spacing: -1px;">[ TECH_ARSENAL ]</h2>
-  <br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,tailwind,html,css,git,github,figma,linux,vscode,docker&theme=dark&perline=15" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-<br>
-
-<!-- Neon Separator -->
+<!-- Minimalist Telemetry Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<!-- Unified Analytics Dashboard -->
-<div align="center">
-  <h2 style="color: #FFFFFF; font-family: 'Syne', sans-serif; font-weight: 800; letter-spacing: -1px;">[ TELEMETRY_DATA ]</h2>
-  <p style="color: #8B949E; font-family: 'Inter', sans-serif; font-size: 14px;">Real-time system diagnostics and network activity.</p>
-  
+  <h2 style="font-family: 'Syne', sans-serif; font-weight: 800; color: #FFFFFF; font-size: 24px; letter-spacing: 2px; margin-top: 40px;">04 // TELEMETRY</h2>
   <br>
 
-  <!-- Top Row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KXNDXX2&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=8B949E&border_radius=12&custom_title=SYSTEM_METRICS" alt="Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KXNDXX2&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=8B949E&border_radius=12&custom_title=UPTIME_STREAK" alt="Streak" width="49%" />
-  
-  <br><br>
-  
-  <!-- Bottom Row -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXNDXX2&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=8B949E&border_radius=12&custom_title=CODE_DISTRIBUTION" alt="Languages" width="40%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=discord&no-frame=true&no-bg=true&margin-w=5&column=4" alt="Trophies" width="58%" />
-  
-  <br><br>
+  <!-- Row 1: Stats & Streak (Void Theme) -->
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=KXNDXX2&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=8B949E&custom_title=GITHUB_METRICS" alt="Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KXNDXX2&theme=dark&hide_border=true&background=00000000&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=8B949E&custom_title=STREAK_DATA" alt="Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <!-- Full Width Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KXNDXX2&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&border_radius=12&custom_title=NETWORK_ACTIVITY" alt="Activity Graph" width="100%" />
+  <br>
+
+  <!-- Row 2: Languages & Trophies -->
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="45%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXNDXX2&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=8B949E&custom_title=CODE_BASE" alt="Languages" width="100%" />
+      </td>
+      <td align="center" width="55%">
+        <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=4" alt="Trophies" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Row 3: Activity Graph (Void Theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KXNDXX2&bg_color=00000000&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=COMMIT_ACTIVITY_STREAM" alt="Activity Graph" width="90%" />
 </div>
 
 <br>
 
-<!-- Footer -->
+<!-- Massive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" width="100%" />
 </div>
