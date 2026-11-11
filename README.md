@@ -28,29 +28,29 @@
       <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,tailwind,html,css,git,github,figma,linux,vscode,docker&theme=dark&perline=8" alt="Tech Stack" />
     </td>
 
-    <!-- Right Column: Discord & Trophies -->
-    <td width="40%" valign="top" style="padding-left: 30px;">
-      <table width="100%" style="border-collapse: collapse;">
-        <tr>
-          <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
-            <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Satellite Link</h3>
-            <a href="https://discord.gg/YbgkDxYWws">
-              <img src="https://lanyard.cnrad.dev/api/1013524435594661948?idleMessage=Exploring%20the%20cosmos&theme=dark&bg=161B22&borderRadius=12px&animated=true&showDisplayName=true&hideDiscrim=true" alt="Discord Presence" width="100%" style="border-radius: 12px;" />
-            </a>
-            <br><br>
-            <a href="https://discord.gg/YbgkDxYWws">
-              <img src="https://img.shields.io/badge/ENTER_ORBIT-A855F7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Join Discord" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; padding-top: 30px;">
-            <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Star Charts</h3>
-            <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=2" alt="Trophies" width="100%" />
-          </td>
-        </tr>
-      </table>
-    </td>
+<!-- Right Column: Discord & Trophies -->
+<td width="40%" valign="top" style="padding-left: 30px;">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px;">
+        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Satellite Link</h3>
+        <a href="https://discord.gg/YbgkDxYWws">
+          <img src="https://lanyard.cnrad.dev/api/1013524435594661948?idleMessage=Exploring%20the%20cosmos&theme=dark&bg=161B22&borderRadius=12px&animated=true&showDisplayName=true&hideDiscrim=true" alt="Discord Presence" width="100%" style="border-radius: 12px;" />
+        </a>
+        <br><br>
+        <a href="https://discord.gg/YbgkDxYWws">
+          <img src="https://img.shields.io/badge/ENTER_ORBIT-A855F7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Join Discord" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: #0D1117; border: 1px solid #4C1D95; border-radius: 16px; padding: 20px; padding-top: 30px;">
+        <h3 style="color: #A855F7; font-family: 'Syne', sans-serif; margin-top: 0;">Star Charts</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=KXNDXX2&theme=dark&no-frame=true&no-bg=true&margin-w=5&column=2" alt="Trophies" width="100%" />
+      </td>
+    </tr>
+  </table>
+</td>
   </tr>
 </table>
 
