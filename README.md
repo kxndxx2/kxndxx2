@@ -84,3 +84,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
 </div>
+
+<img src="https://raw.githubusercontent.com/KXNDXX2/KXNDXX2/output/github-snake-dark.svg" />
